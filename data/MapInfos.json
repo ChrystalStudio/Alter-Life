@@ -1,0 +1,17 @@
+[
+null,
+{"id":1,"expanded":false,"name":"BG BLACK","order":1,"parentId":0,"scrollX":891.2727272727273,"scrollY":496.90909090909093},
+{"id":2,"expanded":false,"name":"Graveyard","order":14,"parentId":0,"scrollX":980.4,"scrollY":546.6},
+{"id":3,"expanded":true,"name":"Alteria City","order":2,"parentId":0,"scrollX":970.8,"scrollY":941.4},
+{"id":4,"expanded":false,"name":"Clinic","order":3,"parentId":3,"scrollX":980.4,"scrollY":546.6},
+{"id":5,"expanded":true,"name":"Supermarket","order":4,"parentId":3,"scrollX":980.4,"scrollY":546.6},
+{"id":6,"expanded":false,"name":"Casino","order":6,"parentId":3,"scrollX":980.4,"scrollY":546.6},
+{"id":7,"expanded":false,"name":"Supermarket","order":5,"parentId":5,"scrollX":980.4,"scrollY":546.6},
+{"id":8,"expanded":false,"name":"Cafe","order":7,"parentId":3,"scrollX":980.4,"scrollY":546.6},
+{"id":9,"expanded":true,"name":"Chrystal Studio","order":8,"parentId":3,"scrollX":980.4,"scrollY":546.6},
+{"id":10,"expanded":false,"name":"VR Game Testing Area","order":9,"parentId":9,"scrollX":980.4,"scrollY":546.6},
+{"id":11,"expanded":false,"name":"Chrystarin's Office","order":10,"parentId":9,"scrollX":980.4,"scrollY":546.6},
+{"id":12,"expanded":true,"name":"Player's Apartment","order":11,"parentId":3,"scrollX":980.4,"scrollY":546.6},
+{"id":13,"expanded":true,"name":"School","order":12,"parentId":0,"scrollX":970.8,"scrollY":797.4},
+{"id":14,"expanded":false,"name":"Park","order":13,"parentId":13,"scrollX":980.4,"scrollY":546.6}
+]
